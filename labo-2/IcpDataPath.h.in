@@ -1,0 +1,3 @@
+#pragma once
+
+#define OBJ_DEFAULT_PATH  "${OBJ_DEFAULT_PATH}"
